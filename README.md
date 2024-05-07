@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Dave Ngo
 - 🌱 I’m currently learning C
-- 📫 How to reach me davetn657@gmail.com
