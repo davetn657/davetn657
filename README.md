@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Dave Ngo
-- 🌱 I’m currently learning C
+
