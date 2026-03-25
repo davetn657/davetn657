@@ -6,7 +6,7 @@
 
 - 🧠 Passionate about improving as a developer every day
 - 💡 Interested in backend development, C#, and building useful applications
-- 🛠️ Currently working on personal projects to sharpen real-world skills
+- 🛠️ Currently working on personal projects
 - 📈 Focused on writing clean, maintainable, and efficient code
 
 ## 🧰 Tech Stack
